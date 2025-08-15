@@ -11,7 +11,7 @@ profile:
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Digital Materials Chemistry is a newly established division in the <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/abteilung-6.html'>Materials Chemistry Department</a>  at the <a href='https://www.bam.de/Navigation/EN/Home/home.html'>Bundesanstalt für Materialforschung und prüfung (BAM)</a>, Berlin. It focuses on combining traditional materials science methods with modern digital tools to enable more efficient, sustainable, and targeted material development.
+Digital Materials Chemistry is a newly established division in the <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/abteilung-6.html'>Materials Chemistry Department</a> at the <a href='https://www.bam.de/Navigation/EN/Home/home.html'>Bundesanstalt für Materialforschung und prüfung (BAM)</a>, Berlin led by <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/fachbereich-66/fachbereich66.html'>Prof. Dr. Janine George</a>. It combines traditional materials science methods with modern digital tools for more efficient, sustainable, and targeted material development.
