@@ -2,11 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: /
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: group.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Digital Materials Chemistry is a newly established division in the <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/abteilung-6.html'>Materials Chemistry Department</a> at the <a href='https://www.bam.de/Navigation/EN/Home/home.html'>Bundesanstalt für Materialforschung und prüfung (BAM)</a>, Berlin led by <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/fachbereich-66/fachbereich66.html'>Prof. Dr. Janine George</a>. It combines traditional materials science methods with modern digital tools for more efficient, sustainable, and targeted material development.
+**DigiMatChem** is a newly established division in the <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/abteilung-6.html'>Materials Chemistry Department</a> at the <a href='https://www.bam.de/Navigation/EN/Home/home.html'>Bundesanstalt für Materialforschung und prüfung (BAM)</a>, Berlin led by <a href='https://www.bam.de/Navigation/DE/Ueber-die-BAM/Organisation/Praesident/Abteilung-6/fachbereich-66/fachbereich66.html'>Prof. Dr. Janine George</a>. It combines traditional materials science methods with modern digital tools for more efficient, sustainable, and targeted material development.
