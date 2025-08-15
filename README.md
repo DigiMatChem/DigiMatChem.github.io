@@ -1,4 +1,4 @@
-# Digital Materials Chemistry Website 
+# Digital Materials Chemistry Website
 
 Built using Jekyll with customized fork of [al-folio](https://github.com/alshedivat/al-folio) theme and inspired by [bullab](https://github.com/MartinBulla/bullab).
 
