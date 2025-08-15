@@ -3,7 +3,7 @@ layout: page
 title: Luc Walterbos
 description: PhD Candidate
 img: assets/img/prof_pic.jpg
-importance: 8
+importance: 9
 redirect: https://www.linkedin.com/in/luc-walterbos-b00001179/
 category: Current members
 ---
