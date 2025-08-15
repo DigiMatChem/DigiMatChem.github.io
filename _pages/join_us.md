@@ -10,4 +10,5 @@ nav_order: 6
 ---
 
 ##### Bachelor's and Master's thesis
+
 Contact us if you are interested in pursuing your Master's or Bachelor's thesis with us.
