@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 ## SS 2023-2024
-Course on **Materials Informatics** at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/)) 
 
-*Note: Course materials will be made publicly available soon*
+Course on **Materials Informatics** at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
+
+_Note: Course materials will be made publicly available soon_
