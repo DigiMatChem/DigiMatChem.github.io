@@ -146,7 +146,8 @@ collections:
       layout: post
     output: false
   projects:
-    output: false
+    output: true
+    permalink: /:collection/:title/
   team:
     output: true
     permalink: /:collection/:title/
