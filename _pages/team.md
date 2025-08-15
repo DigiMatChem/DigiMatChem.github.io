@@ -5,7 +5,7 @@ permalink: /team/
 description:
 nav: true
 nav_order: 1
-display_categories: [lab leader, current members, past members]
+display_categories: [Group leader, Current members, Students, Alumni]
 horizontal: false
 toc:
   sidebar: left
@@ -21,7 +21,7 @@ toc:
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2> 
   </a>
-  {% assign categorized_projects = site.people | where: "category", category %}
+  {% assign categorized_projects = site.team | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -45,7 +45,7 @@ toc:
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.people | sort: "importance" %}
+{% assign sorted_projects = site.team | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
