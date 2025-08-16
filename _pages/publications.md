@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+All publications of Prof. Dr. Janine George till date.
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
