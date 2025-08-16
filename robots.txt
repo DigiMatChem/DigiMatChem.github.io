@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://digimatchem.github.io/digital-materials-chemistry/sitemap.xml
+Sitemap: https://digimatchem.github.io/digital-materials-chemistry//sitemap.xml
