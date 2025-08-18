@@ -2,7 +2,7 @@
 layout: page
 title: Katharina Ueltzen
 description: PhD Candidate
-img: assets/img/Katharina.jpeg
+img: assets/img/Katharina.jpg
 importance: 7
 category: Current members
 ---

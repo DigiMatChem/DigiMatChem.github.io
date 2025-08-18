@@ -2,7 +2,7 @@
 layout: page
 title: Jingrui Song
 description: Student
-img: assets/img/prof_pic.jpg
+img: assets/img/Jingrui.jpeg
 importance:
 category: Students
 ---
