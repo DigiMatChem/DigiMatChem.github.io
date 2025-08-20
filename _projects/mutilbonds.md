@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MultiBonds
+title: ERC Starting Grant MultiBonds
 description: Understanding and designing inorganic materials properties based on two- and multicenter bonds.
 img: assets/img/multibonds.png
 importance: 1
