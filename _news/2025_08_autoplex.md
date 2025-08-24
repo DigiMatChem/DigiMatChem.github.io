@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Autoplex Publication
+title: New publication introducing autoplex - our code to train ML interatomic potentials automatically!
 date: 2025-08-24 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
