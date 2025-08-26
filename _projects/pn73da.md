@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Computing tine project "pn73da"
+title: Computing time project "pn73da"
 description: Accelerated Materials Discovery with Automation and Machine-Learned Chemical Knowledge
 img: assets/img/multibonds.png
 importance: 1
-category: other
+category: Other
 toc:
   sidebar: left
   min_level: 4
