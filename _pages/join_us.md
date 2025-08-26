@@ -11,7 +11,7 @@ nav_order: 6
 
 ##### Postdoc
 
-It is currently only possible to join us via a fellowship application. There are German and European options. At BAM, one can apply for an [Adolf Martens Fellowship](https://www.bam.de/Navigation/EN/About-us/Jobs-and-Careers/Young-Science/Adolf-Martens-Fellowship/adolf-martens-fellowship.html). 
+It is currently only possible to join us via a fellowship application. There are German and European options. At BAM, one can apply for an [Adolf Martens Fellowship](https://www.bam.de/Navigation/EN/About-us/Jobs-and-Careers/Young-Science/Adolf-Martens-Fellowship/adolf-martens-fellowship.html).
 If there are other open positions, I will advertise them on LinkedIn.
 
 ##### PhD
