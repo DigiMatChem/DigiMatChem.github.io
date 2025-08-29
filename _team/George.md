@@ -7,10 +7,12 @@ importance: 1
 category: Group leader
 ---
 
+Janine leads the division at BAM. She is additionally a professor.
+
 # CV
-* **August 2025 - today**: Acting Head of the Division ["Digital Materials Chemistry"](https://www.bam.de/Navigation/EN/About-us/Organisation/President/Department-6/Division-66/division66.html) at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html)
+* **August 2025 - today**: Acting Head of the Division ["Digital Materials Chemistry"](https://www.bam.de/Navigation/EN/About-us/Organisation/President/Department-6/Division-66/division66.html) at the [BAM Berlin (Federal Institute for Materials Research and Testing)](https://www.bam.de/Navigation/EN/Home/home.html)
 * **September 2023 - today**: Professor for Materials Informatics at at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
-* **May 2021 - July 2025**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry)
+* **May 2021 - July 2025**: Junior Group Leader of the Group "Computational Materials Design" at the [BAM Berlin (Federal Institute for Materials Research and Testing)](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry)
 * **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
 * **2018-April 2021:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) ([now at Rice]([https://engineering.dartmouth.edu/community/faculty/geoffroy-hautier](https://profiles.rice.edu/faculty/geoffroy-hautier))) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
