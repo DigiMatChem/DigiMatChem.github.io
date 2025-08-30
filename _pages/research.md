@@ -7,13 +7,18 @@ nav: true
 nav_order: 3
 ---
 
----
+We work on research projects that aim at an accelerted materials design of materials. We especially also focus on the the safety and sustainability of materials. Together with our colleagues at BAM, we aim at combining our efforts with Materials Acceleration Platforms (i.e., automated platforms for materials searches).
 
 #### New chemical heuristics
-The group works to test and develop chemical heuristics (intuitive rules) to advance knowledge and understanding in solid-state chemistry and physics, using geometric and quantum chemical descriptors for chemical environments. For the latter, the group is developing open-source tools for automated bond analysis.
+The group works to test and develop chemical heuristics (intuitive rules) to advance knowledge and understanding in solid-state chemistry and physics, using geometric and quantum chemical descriptors for chemical environments. For the latter, the group is developing open-source tools for automated bond analysis (LobsterPy, atomate2)
 
 #### High-throughput calculations and automations
 Large amounts of reliably calculated material data are necessary to develop new chemical heuristics. Here, the group develops workflows and methods for high-throughput calculations to reliably perform such calculations. Among other things, the group regularly contributes its own developments to well-known open-source material informatics codes such as Pymatgen, Atomate, and Atomate2 and has extensive expertise with these codes.
 
+#### Machine Learning Potentials
+Together with our collaboration parnters at the University of Oxford, we develop the software autoplex to automate the training and evaluation of machine learned interatomic potentials.
+
 #### Vibrational Properties
 Vibration properties play a fundamental role in the stability and heat transport of materials. Both material properties are significant for the safe use of materials. Here, the group is concerned with the ab initio prediction of such data to advance machine learning of such properties.
+
+#### 5 most important recent publications from our lab
