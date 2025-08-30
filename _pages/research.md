@@ -21,6 +21,10 @@ Together with our collaboration parnters (group of [Prof. Volker Deringer](https
 #### Vibrational Properties
 Vibration properties play a fundamental role in the stability and heat transport of materials. Both material properties are significant for the safe use of materials. Here, the group is concerned with the ab initio prediction of such data to advance machine learning of such properties.
 
-#### 5 most important recent publications from our lab
-
+#### 5 most important recent publications with contributions from our lab
+* ["Accelerated data-driven materials science with the Materials Project"](https://doi.org/10.1038/s41563-025-02272-0) 
+* ["An automated framework for exploring and learning potential-energy surfaces"](https://doi.org/10.1038/s41467-025-62510-6)
+* ["Atomate2: Modular workflows for materials science"](https://doi.org/10.1039/D5DD00019J)
+* ["A Quantum-Chemical Bonding Database for Solid-State Materials"](https://doi.org/10.1038/s41597-023-02477-5)
+* ["A foundation model for atomistic materials chemistry"](https://doi.org/10.48550/arXiv.2401.00096)
 
