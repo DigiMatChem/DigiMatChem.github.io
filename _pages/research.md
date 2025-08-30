@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: These are our research interests
+description: These are our research interests.
 nav: true
 nav_order: 3
 ---
@@ -16,7 +16,7 @@ The group works to test and develop chemical heuristics (intuitive rules) to adv
 Large amounts of reliably calculated material data are necessary to develop new chemical heuristics. Here, the group develops workflows and methods for high-throughput calculations to reliably perform such calculations. Among other things, the group regularly contributes its own developments to well-known open-source material informatics codes such as [Pymatgen](https://github.com/materialsproject/pymatgen), and [Atomate2](https://github.com/materialsproject/atomate2) and has extensive expertise with these codes.
 
 #### Machine Learning Potentials
-Together with our collaboration parnters (group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer)) at the University of Oxford, we develop the software [autoplex](https://github.com/autoatml/autoplex) to automate the training and evaluation of machine learned interatomic potentials.
+Together with our collaboration parnters (group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer)) at the University of Oxford, we develop the software [autoplex](https://github.com/autoatml/autoplex) to automate the training and evaluation of machine learned interatomic potentials. Together with the group of [Prof. Silvana Botti](https://www.physik.ruhr-uni-bochum.de/Professuren/prof-dr-botti-silvana/) at Ruhr Uniersity Bochum, we work on finding new chemically complex oxides.
 
 #### Vibrational Properties
 Vibration properties play a fundamental role in the stability and heat transport of materials. Both material properties are significant for the safe use of materials. Here, the group is concerned with the ab initio prediction of such data to advance machine learning of such properties.
