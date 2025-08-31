@@ -1,12 +1,12 @@
 ---
 layout: post
-title: New preprint on magnetism heuristis in machine learning
+title: New preprint on magnetism heuristics in machine learning
 date: 2025-08-31 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-New preprint on magnetism heuristis in machine learning
+New preprint on magnetism heuristics in machine learning
 
 ---
 
