@@ -3,7 +3,7 @@ layout: page
 title: Aistė Miliūtė
 description: PhD Candidate
 img: assets/img/Aiste.jpg
-importance: 6
+importance: 7
 category: Current members
 ---
 
