@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aiste Miliute
+title: Aistė Miliūtė
 description: PhD Candidate
 img: assets/img/Aiste.jpg
 importance: 6
