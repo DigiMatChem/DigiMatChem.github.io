@@ -20,9 +20,10 @@ Joana is a computational chemist focused on studying solid-state materials, part
 1. [Heat capacity estimation of complex materials for energy technologies](https://doi.org/10.1016/j.joule.2025.102054)
 2. [Atomate2: modular workflows for materials science](https://doi.org/10.1039/d5dd00019j)
 3. [Synthesis and phase purity of the negative thermal expansion material $ZrV_{2}O_{7}$](https://doi.org/10.1039/d4tc04095c)
-4. [Dopamine Adsorption on Rutile $TiO_2$(110): Geometry, Thermodynamics, and Core-Level Shifts from First Principles](https://doi.org/10.1021/acsomega.1c05784)
-5. [The closed-edge structure of graphite and the effect of electrostatic charging](https://doi.org/10.1039/C9RA09913A)
-6. [Fisicoquímica: un nuevo enfoque por competencias, ISBN 9786075501758](https://www.elsotano.com/libro/fisicoquimica-un-nuevo-enfoque-por-competencias_10567689)
+4. [Exploring the Thermal and Ionic Transport of Cu+ Conducting Argyrodite $Cu_{7}PSe_{6}$](https://doi.org/10.1002/aenm.202402039)
+5. [Dopamine Adsorption on Rutile $TiO_2$(110): Geometry, Thermodynamics, and Core-Level Shifts from First Principles](https://doi.org/10.1021/acsomega.1c05784)
+6. [The closed-edge structure of graphite and the effect of electrostatic charging](https://doi.org/10.1039/C9RA09913A)
+7. [Fisicoquímica: un nuevo enfoque por competencias, ISBN 9786075501758](https://www.elsotano.com/libro/fisicoquimica-un-nuevo-enfoque-por-competencias_10567689)
 
 # Contact
 
