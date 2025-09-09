@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-We work on research projects that aim at an accelerted materials design of materials at BAM and University of Jena. We especially also focus on the the safety and sustainability of materials. Together with our colleagues at BAM, we aim at combining our efforts with [Materials Acceleration Platforms](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) (i.e., automated platforms for materials searches/optimizations). Additionally, [chemically complex materials](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) are one of our joint interests with colleagues at BAM.
+We work on research projects that aim at an accelerated materials design at BAM and the University of Jena. We primarily focus on the safety and sustainability of materials. Together with our colleagues at BAM, we aim at combining our efforts with [Materials Acceleration Platforms](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) (i.e., automated platforms for materials searches/optimizations). Additionally, [chemically complex materials](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) are one of our joint interests with colleagues at BAM.
 
 #### New chemical heuristics
 
@@ -19,7 +19,7 @@ Large amounts of reliably calculated material data are necessary to develop new 
 
 #### Machine Learning Potentials
 
-Together with our collaboration parnters (group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer)) at the University of Oxford, we develop the software [autoplex](https://github.com/autoatml/autoplex) to automate the training and evaluation of machine learned interatomic potentials. Together with the group of [Prof. Silvana Botti](https://www.physik.ruhr-uni-bochum.de/Professuren/prof-dr-botti-silvana/) at Ruhr University Bochum, we work on finding new chemically complex oxides.
+Together with our collaboration partners (group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer)) at the University of Oxford, we develop the software [autoplex](https://github.com/autoatml/autoplex) to automate the training and evaluation of machine learned interatomic potentials. Together with the group of [Prof. Silvana Botti](https://www.physik.ruhr-uni-bochum.de/Professuren/prof-dr-botti-silvana/) at Ruhr University Bochum, we work on finding new chemically complex oxides.
 
 #### Vibrational Properties
 
