@@ -10,8 +10,8 @@ New preprint predicting and understanding thermal conductivities of sulfur-based
 
 ---
 
-We studied Ag₈TS₆ (T = Si, Ge, Sn) argyrodites using two modeling approaches—a Grüneisen-based phonon lifetime model and machine-learned interatomic potentials—to predict lattice thermal conductivity. Both matched experimental data well across temperatures. The low thermal conductivity stems from weakly bonded Ag⁺ ions because of occupied antibonding states in the Ag-S COHPs and additional Ag-Ag bonds, which lead to strong anharmonicity. Interestingly, thermal and ionic conductivities don’t influence each other—meaning they can be tuned independently.
+We studied Ag₈TS₆ (T = Si, Ge, Sn) argyrodites using two modeling approaches—a Grüneisen-based phonon lifetime model and machine-learned interatomic potentials—to predict lattice thermal cond[...]  
 
 Find the preprint here:
 
-(https://arxiv.org/abs/2510.23133)[https://arxiv.org/abs/2510.23133]
+[https://arxiv.org/abs/2510.23133](https://arxiv.org/abs/2510.23133)
