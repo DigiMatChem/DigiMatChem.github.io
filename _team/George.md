@@ -24,6 +24,7 @@ Janine leads the division at BAM. She is additionally a professor.
 
 # Awards
 
+- **2024:** One of 100 Selected "Most Important" Scientists 2024 in Berlin by the newspaper "Tagesspiegel", "Die 100 wichtigsten Köpfe der Berliner Wissenschaft 2024"
 - **2024:** ERC Starting Grant, Funding of 1.5 Million EUR for five years.
 - **2023:** [Werner von Siemens Ring Stiftung Award for Young Scientists](https://siemens-ring.de/juwi23-george)
 - **2021:** Falling Walls Finalist "Breakthrough of the Year" in the Category "Physical Sciences".
