@@ -3,7 +3,7 @@ layout: page
 title: Christina Ertural
 description: PostDoc
 img: assets/img/Christina.jpg
-importance: 2
+importance:
 redirect: https://quantumchemist.de/
 category: Alumni
 ---
