@@ -4,7 +4,7 @@ title: Janine George
 description:
 img: assets/img/Janine.jpg
 importance: 1
-category: Group leader
+category: Division head
 ---
 
 Janine leads the division at BAM. She is additionally a professor.

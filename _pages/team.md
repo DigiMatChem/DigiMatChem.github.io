@@ -5,7 +5,7 @@ permalink: /team/
 description:
 nav: true
 nav_order: 1
-display_categories: [Group leader, Current members, Students, Alumni]
+display_categories: [Division head, Permanent scientists, Current members, Students, Alumni]
 horizontal: false
 toc:
   sidebar: left
