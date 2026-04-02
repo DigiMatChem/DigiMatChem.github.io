@@ -3,8 +3,8 @@ layout: page
 title: Hanna Türk
 description:
 img: assets/img/Hanna.jpg
-importance: 
-category: Permanent scientists 
+importance:
+category: Permanent scientists
 ---
 
 Hanna is a staff scientist in Janine's group. Her work focuses on atomistic simulations for energy materials.
@@ -17,4 +17,3 @@ Hanna is a staff scientist in Janine's group. Her work focuses on atomistic simu
 - **2016-2018:** Master of Science in Chemistry, [Technical University of Munich](https://www.tum.de/)
 - **2013-2016:** Bachelor of Science in Chemistry, [Technical University of Munich](https://www.tum.de/)
 - **2012:** Abitur
-
