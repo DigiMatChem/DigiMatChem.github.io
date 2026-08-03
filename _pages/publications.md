@@ -7,7 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-All publications of Prof. Dr. Janine George till date. Please see [google scholar](https://scholar.google.de/citations?user=bggcIYEAAAAJ&hl=en) for an updated list
+All publications of Prof. Dr. Janine George to date. Please see [google scholar](https://scholar.google.de/citations?user=bggcIYEAAAAJ&hl=en) for an updated list.
+This list does not contain the full research output of the division, as members of the division might publish independently of Janine George.
 
 <!-- _pages/publications.md -->
 
