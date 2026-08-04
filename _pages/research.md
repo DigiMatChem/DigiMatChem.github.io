@@ -35,7 +35,7 @@ Our research is organized around two complementary themes: (i) materials discove
 
 #### Open-Source Software and Research Infrastructures
 
-- Major contributors to the materials analysis [Pymatgen](https://github.com/materialsproject/pymatgen)
+- Major contributors to the materials analysis software [Pymatgen](https://github.com/materialsproject/pymatgen)
 - Maintenance and development of the workflow library [Atomate2](https://github.com/materialsproject/atomate2)
 - Maintenance and joint development of software [autoplex](https://github.com/autoatml/autoplex) for automated training of machine learning interatomic potentials (joint development with the group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer) at the University of Oxford)
 - Development of [LobsterPy](https://github.com/JaGeo/LobsterPy) for automated bond analysis
