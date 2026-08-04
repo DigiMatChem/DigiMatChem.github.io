@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+
 We accelerate materials design with computational and data-driven approaches at BAM and the University of Jena. In particular, we focus on the design of safe, sustainable, and reliable materials. To achieve this, we combine first-principles simulations, condensed matter physics, materials informatics, machine learning, and high-throughput computational methods. 
 
 Our research is organized around two complementary themes: (i) materials discovery with Materials Acceleration Platforms and (ii) machine-learned models for realistic materials simulations of advanced and chemically complex materials. In particular, we are interested in battery materials. These activities are supported by substantial contributions to open-source software and community research infrastructures. The research connects to the activity fields [Materials Design](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) and [Electrical energy storage and conversion](https://bam.de/en/topics/energy/electrical-energy-storage) at BAM and includes collaborations with researchers across both areas.
