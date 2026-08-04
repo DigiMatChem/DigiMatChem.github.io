@@ -14,24 +14,24 @@ Our research is organized around two complementary themes: (i) materials discove
 
 
 #### Materials Acceleration Platforms and Data-Driven Materials Design
-- Inverse design and generative models (e.g., [evaluation of generative models]())
-- Synthesis prediction (e.g., via PU learning)
-- Property forecasting (e.g., for thermal conductivity)
-- Chemical heuristics and materials descriptors (e.g., for magnetism)
-- Automated bonding analysis (e.g., as part of LobsterPy)
-- High-throughput calculations and data generation (e.g., for our bonding analysis database)
-- Pre-trained and foundation models for materials discovery (e.g., as part of MACE-MP-0)
+- Inverse design and generative models (e.g., [evaluation of generative models](https://doi.org/10.1088/2515-7639/ae869a))
+- Synthesis prediction (e.g., via [co-training and PU learning](https://doi.org/10.1039/D4DD00394B))
+- Property forecasting (e.g., for [thermal conductivity via chemical bonding concepts](https://doi.org/10.1002/aidi.70129))
+- Chemical heuristics and materials descriptors (e.g., for [bond angle-based features for magnetic predictions](https://doi.org/10.26434/chemrxiv-2025-xj84d/v3))
+- Automated bonding analysis (e.g., as part of [LobsterPy](https://doi.org/10.21105/joss.06286) and [atomate2](https://doi.org/10.1039/D5DD00019J))
+- High-throughput calculations and data generation (e.g., for [our bonding analysis database](https://doi.org/10.1038/s41597-023-02477-5))
+- Pre-trained and foundation models for materials discovery (e.g., as part of [MACE-MP-0](https://doi.org/10.1063/5.0297006))
 - Integration of experimental and computational data
 - Autonomous optimization workflows
 
 
 #### Machine-Learned Models for Realistic Materials Simulations
-- Machine-learned interatomic potentials (e.g., [benchmarking of MACE-MP-0]())
-- Automated training and benchmarking (e.g., [development of autoplex]())
-- Vibrational, thermodynamic, and transport properties (e.g., for the computation of thermal conductivity)
+- Machine-learned interatomic potentials (e.g., [benchmarking of MACE-MP-0](https://doi.org/10.1063/5.0297006))
+- Automated training and benchmarking (e.g., [development of autoplex](https://doi.org/10.1038/s41467-025-62510-6))
+- Vibrational, thermodynamic, and transport properties (e.g., for the [computation of thermal conductivity](https://doi.org/10.1039/d5ta08709k))
+- Chemically complex materials (e.g., see [our recent review](https://doi.org/10.1016/j.cossms.2026.101256))
 - Large-scale atomistic simulations
 - Battery materials and interfaces
-- Chemically complex materials
 - Materials stability, degradation, and safety
 
 #### Open-Source Software and Research Infrastructures
