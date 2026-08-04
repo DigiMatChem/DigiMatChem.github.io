@@ -16,7 +16,7 @@ Our research is organized around two complementary themes: (i) materials discove
 - Inverse design and generative models (e.g., [evaluation of generative models](https://doi.org/10.1088/2515-7639/ae869a))
 - Synthesis prediction (e.g., via [co-training and PU learning](https://doi.org/10.1039/D4DD00394B))
 - Property forecasting (e.g., for [thermal conductivity via chemical bonding concepts](https://doi.org/10.1002/aidi.70129))
-- Chemical heuristics and materials descriptors (e.g., for [bond angle-based features for magnetic predictions](https://doi.org/10.26434/chemrxiv-2025-xj84d/v3))
+- Chemical heuristics and materials descriptors (e.g., for [bond angle-based features for magnetic predictions](https://doi.org/10.26434/chemrxiv-2025-xj84d/v3) or for [bonding-based features for thermal conductivity prediction](https://doi.org/10.1002/aidi.70129))
 - Automated bonding analysis (e.g., as part of [LobsterPy](https://doi.org/10.21105/joss.06286) and [atomate2](https://doi.org/10.1039/D5DD00019J))
 - High-throughput calculations and data generation (e.g., for [our bonding analysis database](https://doi.org/10.1038/s41597-023-02477-5))
 - Pre-trained and foundation models for materials discovery (e.g., as part of [MACE-MP-0](https://doi.org/10.1063/5.0297006))
