@@ -35,6 +35,7 @@ Our research is organized around two complementary themes: (i) materials discove
 - Battery materials and interfaces
 - Materials stability, degradation, and safety
 
+
 #### Open-Source Software and Research Infrastructures
 
 - Major contributors to the materials analysis [Pymatgen](https://github.com/materialsproject/pymatgen)
