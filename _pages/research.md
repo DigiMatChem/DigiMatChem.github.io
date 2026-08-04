@@ -11,7 +11,6 @@ We accelerate materials design with computational and data-driven approaches at 
 
 Our research is organized around two complementary themes: (i) materials discovery with Materials Acceleration Platforms and (ii) machine-learned models for realistic materials simulations of advanced and chemically complex materials. In particular, we are interested in battery materials. These activities are supported by substantial contributions to open-source software and community research infrastructures. The research connects to the activity fields [Materials Design](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) and [Electrical energy storage and conversion](https://bam.de/en/topics/energy/electrical-energy-storage) at BAM and includes collaborations with researchers across both areas.
 
-
 #### Materials Acceleration Platforms and Data-Driven Materials Design
 
 - Inverse design and generative models (e.g., [evaluation of generative models](https://doi.org/10.1088/2515-7639/ae869a))
@@ -24,7 +23,6 @@ Our research is organized around two complementary themes: (i) materials discove
 - Integration of experimental and computational data
 - Autonomous optimization workflows
 
-
 #### Machine-Learned Models for Realistic Materials Simulations
 
 - Machine-learned interatomic potentials (e.g., [benchmarking of MACE-MP-0](https://doi.org/10.1063/5.0297006))
@@ -35,7 +33,6 @@ Our research is organized around two complementary themes: (i) materials discove
 - Battery materials and interfaces
 - Materials stability, degradation, and safety
 
-
 #### Open-Source Software and Research Infrastructures
 
 - Major contributors to the materials analysis [Pymatgen](https://github.com/materialsproject/pymatgen)
@@ -44,7 +41,6 @@ Our research is organized around two complementary themes: (i) materials discove
 - Development of [LobsterPy](https://github.com/JaGeo/LobsterPy) for automated bond analysis
 - Dataset and software contributions to the [Materials Project](https://next-gen.materialsproject.org/) and contributions to the [Materials Project Software Foundation](https://next-gen.materialsproject.org/about/people)
 - Dataset and software contributions to [NOMAD](https://nomad-lab.eu/nomad-lab/) and involvement in FAIRmat 2.0
-
 
 #### 5 most important recent publications with contributions from our lab
 
