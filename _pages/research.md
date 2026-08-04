@@ -7,23 +7,41 @@ nav: true
 nav_order: 3
 ---
 
-We work on research projects that aim at an accelerated materials design at BAM and the University of Jena. We primarily focus on the safety and sustainability of materials. Together with our colleagues at BAM, we aim at combining our efforts with [Materials Acceleration Platforms](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) (i.e., automated platforms for materials searches/optimizations). Additionally, [chemically complex materials](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) are one of our joint interests with colleagues at BAM.
 
-#### New chemical heuristics
+We accelerate materials design with computational and data-driven approaches at BAM and the University of Jena. In particular, we focus on the design of safe, sustainable, and reliable materials. To achieve this, we combine first-principles simulations, condensed matter physics, materials informatics, machine learning, and high-throughput computational methods. 
 
-The group works to test and develop chemical heuristics (intuitive rules) to advance knowledge and understanding in solid-state chemistry and physics, using geometric and quantum chemical descriptors for chemical environments. For the latter, the group is developing open-source tools for automated bond analysis ([LobsterPy](https://github.com/JaGeo/LobsterPy), [atomate2](https://github.com/materialsproject/atomate2))
+Our research is organized around two complementary themes: (i) materials discovery with Materials Acceleration Platforms and (ii) machine-learned models for realistic materials simulations of advanced and chemically complex materials. In particular, we are interested in battery materials. These activities are supported by substantial contributions to open-source software and community research infrastructures. The research connects to the activity fields [Materials Design](https://www.bam.de/Navigation/EN/Topics/Materials/Materials-design/materials-design.html) and [Electrical energy storage and conversion](https://bam.de/en/topics/energy/electrical-energy-storage) at BAM and includes collaborations with researchers across both areas.
 
-#### High-throughput calculations and automations
 
-Large amounts of reliably calculated material data are necessary to develop new chemical heuristics. Here, the group develops workflows and methods for high-throughput calculations to reliably perform such calculations. Among other things, the group regularly contributes its own developments to well-known open-source material informatics codes such as [Pymatgen](https://github.com/materialsproject/pymatgen), and [Atomate2](https://github.com/materialsproject/atomate2) and has extensive expertise with these codes. Because of these activities, Janine is part of the [Materials Project Software Foundation](https://next-gen.materialsproject.org/about/people).
+#### Materials Acceleration Platforms and Data-Driven Materials Design
+- Inverse design and generative models (e.g., [evaluation of generative models]())
+- Synthesis prediction (e.g., via PU learning)
+- Property forecasting (e.g., for thermal conductivity)
+- Chemical heuristics and materials descriptors (e.g., for magnetism)
+- Automated bonding analysis (e.g., as part of LobsterPy)
+- High-throughput calculations and data generation (e.g., for our bonding analysis database)
+- Pre-trained and foundation models for materials discovery (e.g., as part of MACE-MP-0)
+- Integration of experimental and computational data
+- Autonomous optimization workflows
 
-#### Machine Learning Potentials
 
-Together with our collaboration partners (group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer)) at the University of Oxford, we develop the software [autoplex](https://github.com/autoatml/autoplex) to automate the training and evaluation of machine learned interatomic potentials. Together with the group of [Prof. Silvana Botti](https://www.physik.ruhr-uni-bochum.de/Professuren/prof-dr-botti-silvana/) at Ruhr University Bochum, we work on finding new chemically complex oxides.
+#### Machine-Learned Models for Realistic Materials Simulations
+- Machine-learned interatomic potentials (e.g., [benchmarking of MACE-MP-0]())
+- Automated training and benchmarking (e.g., [development of autoplex]())
+- Vibrational, thermodynamic, and transport properties (e.g., for the computation of thermal conductivity)
+- Large-scale atomistic simulations
+- Battery materials and interfaces
+- Chemically complex materials
+- Materials stability, degradation, and safety
 
-#### Vibrational Properties
+#### Open-Source Software and Research Infrastructures
+- Major contributors to the materials analysis [Pymatgen](https://github.com/materialsproject/pymatgen)
+- Maintenance and development of the workflow library [Atomate2](https://github.com/materialsproject/atomate2)
+- Maintenance and joint development of software [autoplex](https://github.com/autoatml/autoplex) for automated training of machine learning interatomic potentials (joint development with the group of [Prof. Volker Deringer](https://www.chem.ox.ac.uk/people/volker-deringer) at the University of Oxford)
+- Development of [LobsterPy](https://github.com/JaGeo/LobsterPy) for automated bond analysis
+- Dataset and software contributions to the [Materials Project](https://next-gen.materialsproject.org/) and contributions to the [Materials Project Software Foundation](https://next-gen.materialsproject.org/about/people)
+- Dataset and software contributions to [NOMAD](https://nomad-lab.eu/nomad-lab/) and involvement in FAIRmat 2.0
 
-Vibration properties play a fundamental role in the stability and heat transport of materials. Both material properties are significant for the safe use of materials. Here, the group is concerned with the ab initio prediction of such data to advance machine learning of such properties.
 
 #### 5 most important recent publications with contributions from our lab
 
