@@ -1,6 +1,7 @@
 github_users:
   - JaGeo
   - naik-aakash
+  - HannaTuerk
   - QuantumChemist
   - kaueltzen
   - luccerboi
@@ -12,6 +13,7 @@ github_repos:
   - autoatml/autoplex
   - JaGeo/LobsterPy
   - materialsproject/atomate2
+  - materialsproject/pymatgen-core
   - materialsproject/pymatgen
   - materialsproject/crystaltoolkit
   - materialsproject/jobflow
