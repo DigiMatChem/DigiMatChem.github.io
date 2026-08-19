@@ -4,5 +4,5 @@ title: Nishika Jethra
 description: Student
 importance:
 redirect: https://www.linkedin.com/in/nishika-jethra/
-category: Students
+category: Alumni
 ---
